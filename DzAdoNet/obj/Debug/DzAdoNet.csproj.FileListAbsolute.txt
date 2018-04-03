@@ -1,0 +1,14 @@
+c:\users\павлове.corp\documents\visual studio 2017\Projects\DzAdoNet\DzAdoNet\bin\Debug\DzAdoNet.exe.config
+c:\users\павлове.corp\documents\visual studio 2017\Projects\DzAdoNet\DzAdoNet\bin\Debug\DzAdoNet.exe
+c:\users\павлове.corp\documents\visual studio 2017\Projects\DzAdoNet\DzAdoNet\bin\Debug\DzAdoNet.pdb
+c:\users\павлове.corp\documents\visual studio 2017\Projects\DzAdoNet\DzAdoNet\obj\Debug\DzAdoNet.csprojResolveAssemblyReference.cache
+c:\users\павлове.corp\documents\visual studio 2017\Projects\DzAdoNet\DzAdoNet\obj\Debug\MainWindow.g.cs
+c:\users\павлове.corp\documents\visual studio 2017\Projects\DzAdoNet\DzAdoNet\obj\Debug\App.g.cs
+c:\users\павлове.corp\documents\visual studio 2017\Projects\DzAdoNet\DzAdoNet\obj\Debug\DzAdoNet_MarkupCompile.cache
+c:\users\павлове.corp\documents\visual studio 2017\Projects\DzAdoNet\DzAdoNet\obj\Debug\DzAdoNet_MarkupCompile.lref
+c:\users\павлове.corp\documents\visual studio 2017\Projects\DzAdoNet\DzAdoNet\obj\Debug\MainWindow.baml
+c:\users\павлове.corp\documents\visual studio 2017\Projects\DzAdoNet\DzAdoNet\obj\Debug\DzAdoNet.g.resources
+c:\users\павлове.corp\documents\visual studio 2017\Projects\DzAdoNet\DzAdoNet\obj\Debug\DzAdoNet.Properties.Resources.resources
+c:\users\павлове.corp\documents\visual studio 2017\Projects\DzAdoNet\DzAdoNet\obj\Debug\DzAdoNet.csproj.GenerateResource.Cache
+c:\users\павлове.corp\documents\visual studio 2017\Projects\DzAdoNet\DzAdoNet\obj\Debug\DzAdoNet.exe
+c:\users\павлове.corp\documents\visual studio 2017\Projects\DzAdoNet\DzAdoNet\obj\Debug\DzAdoNet.pdb
